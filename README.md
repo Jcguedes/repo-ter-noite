@@ -9,5 +9,5 @@
 	 + Novo subnível
 * Link de apoio
    [Link](https://aluno.uninove.br)
-   * Link GitHub
+* Link GitHub
    [Link](https://github.com/EdsonMSouza/T42-computacao-movel)

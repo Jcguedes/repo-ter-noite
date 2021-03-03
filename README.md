@@ -8,5 +8,5 @@
    + Terceiro item em **negrito**
 	 + Novo subnível
 * Links de apoio
-   [Link](https://www.uninove.br)
+   [Link](https://aluno.uninove.br)
    [Link](https://github.com/EdsonMSouza/T42-computacao-movel)
